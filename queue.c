@@ -99,8 +99,3 @@ uint32_t q_numItems(void)
 {
 	return numItems;
 }
-
-int main(void)
-{
-	return 0;
-}
